@@ -3,7 +3,7 @@
 ## 使用
 
 ```shell
-yarn add 
+yarn 
 
 # 启动s
 yarn dev
