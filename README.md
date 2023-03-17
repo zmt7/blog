@@ -5,7 +5,7 @@
 ```shell
 yarn 
 
-# 启动s
+# 启动
 yarn dev
 
 # 打包
