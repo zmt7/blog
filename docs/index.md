@@ -4,15 +4,15 @@ layout: home
 
 features:
 
-- icon: 🧓
+- icon: 🔮
   title: FrontEnd
   details: Vue | Js | webpack...
 
-- icon: 👴
+- icon: 🚀
   title: BackEnd
   details: Node.js | mySql | Redis...
 
-- icon: 👨‍🦲
+- icon: ✨
   title: Base
   details: NetWork | Data structure & Algorithm...
 
