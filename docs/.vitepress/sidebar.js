@@ -1,8 +1,8 @@
 export default [
   {
-    text: "前端专题",
+    text: "前端",
     collapsible: true,
-    collapsed: true,
+    collapsed: false,
     items: [
       { text: "Js", link: "/FrontEnd/" },
       { text: "Debounce-Throttle", link: "/FrontEnd/Debounce-Throttle" },
@@ -12,20 +12,22 @@ export default [
     ],
   },
   {
-    text: "后端相关",
+    text: "技术相关",
     collapsible: true,
-    collapsed: true,
+    collapsed: false,
     items: [
-      { text: "node.js", link: "/BackEnd/node" },
-      { text: "mysql", link: "/BackEndjs/mysql" },
+      { text: "Net", link: "/BackEnd/" },
+      { text: "node", link: "/BackEnd/node" },
+      { text: "Mysql", link: "/BackEndjs/mysql" },
     ],
   },
   {
     text: "开发工具",
     collapsible: true,
-    collapsed: true,
+    collapsed: false,
     items: [
       { text: "git", link: "/tools/" },
+      { text: "包管理器", link: "/tools/package" },
     ],
   },
 ];
