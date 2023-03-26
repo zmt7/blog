@@ -16,6 +16,7 @@ export default defineConfig({
   themeConfig:{
     nav,
     sidebar,
+    socialLinks: [{ icon: 'github', link: 'https://github.com/zmt7' }],
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2022-present zmt',

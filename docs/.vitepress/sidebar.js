@@ -1,15 +1,18 @@
 export default [
   {
-    text: "前端",
+    text: "前端专题",
     collapsible: true,
     collapsed: true,
     items: [
-      { text: "js", link: "/FrontEnd/js" },
+      { text: "Js", link: "/FrontEnd/" },
+      { text: "Debounce-Throttle", link: "/FrontEnd/Debounce-Throttle" },
+      { text: "Css", link: "/FrontEnd/css" },
+      { text: "全局的loading", link: "/FrontEnd/globalLoading" },
       { text: "vue", link: "/FrontEnd/vue" },
     ],
   },
   {
-    text: "后端",
+    text: "后端相关",
     collapsible: true,
     collapsed: true,
     items: [
@@ -18,7 +21,7 @@ export default [
     ],
   },
   {
-    text: "工具栏",
+    text: "开发工具",
     collapsible: true,
     collapsed: true,
     items: [

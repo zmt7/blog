@@ -10,22 +10,22 @@ features:
 
 - icon: 🚀
   title: BackEnd
-  details: Node.js | mySql | Redis...
+  details: Node.js | mySql 
 
 - icon: ✨
   title: Base
-  details: NetWork | Data structure & Algorithm...
+  details: Net | Data structure & Algorithm...
 
 title: zmt
 titleTemplate: blog
 
 hero:
   name: zmt blog
-  tagline: Learning and work are occupying 70% of my life
+  tagline: stop trying to find a rewind, it's life, not a movie. 
   actions:
     - theme: brand
-      text: let start
+      text: get started
       link: /FrontEnd/
-    # - theme: alt
-    #   text: let start
-    #   link: /guide/
+    - theme: alt
+      text: gitHub
+      link: https://github.com/zmt7/blog
